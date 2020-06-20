@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RUBY PGA Golf CLI Project using API"
-date:       2020-06-20 02:48:17 +0000
+date:       2020-06-19 22:48:18 -0400
 permalink:  ruby_pga_golf_cli_project_using_api
 ---
 
