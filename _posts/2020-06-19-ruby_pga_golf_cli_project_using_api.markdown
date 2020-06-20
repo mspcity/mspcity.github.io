@@ -134,7 +134,15 @@ thank you
 
 
 
-https://imgur.com/xX6wV3Nh
+![](https://imgur.com/xX6wV3N)
+
+![](https://imgur.com/xX6wV3Nhttp://)
+
+https://imgur.com/xX6wV3N
+
+(https://imgur.com/xX6wV3N)
+
+
 
 
 
